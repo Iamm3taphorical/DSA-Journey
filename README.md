@@ -1,2 +1,2 @@
 # DSA-Journey
-This is my log for the problems i practiced during my entire dsa journey
+This is my log for the problems I practiced during my entire DSA journey
